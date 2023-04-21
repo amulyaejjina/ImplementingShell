@@ -1,6 +1,6 @@
 Date - Feb 14th 2022
 
-## Project Title - 5143 Shell Project
+## Shell Project
 
 ### **Project description** - Mimicking basic shell behavior using python<br />
 #### **Concepts Used -** 
